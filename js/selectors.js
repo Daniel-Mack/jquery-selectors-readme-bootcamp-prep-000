@@ -1,2 +1,5 @@
 // declare your functions here...
-$('selector-goes-here')
+function paragraphSelector() {
+  $('p')
+  return paragraphSelector
+}
