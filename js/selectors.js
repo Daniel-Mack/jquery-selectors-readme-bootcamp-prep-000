@@ -16,7 +16,7 @@ function ninjaBabySelector() {
 
 function divSelector() {
   $('.pics')
-  return divSelector.innerHTML
+  console.log(divSelector).innerHTML
 }
 
 function firstListItem() {
